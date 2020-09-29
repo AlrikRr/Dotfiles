@@ -1,12 +1,12 @@
 # Dotfiles
 
-![Capture-1](Assets/Capture-1.png)
+![Capture-1](Assets/capture-1.png)
 
 
-![Capture-2](Assets/Capture-1.png)
+![Capture-2](Assets/capture-1.png)
 
 
-![Capture-3](Assets/git-neofetch.gif)
+![Capture-3](Assets/gif-neofetch.gif)
 
 
 # Informations
