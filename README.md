@@ -3,7 +3,7 @@
 ![Capture-1](Assets/capture-1.png)
 
 
-![Capture-2](Assets/capture-1.png)
+![Capture-2](Assets/capture-2.png)
 
 
 ![Capture-3](Assets/gif-neofetch.gif)
